@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/*Large Screen resolution more than 1900*/
+@media screen and (min-width: 1600px) {
+
+    .login-wrap .login-content {
+        min-width: 61%;
+    }
+    
+    }
+/*Large Screen resolution more than 1900*/
+@media screen and (min-width: 1900px) {
+
+}
