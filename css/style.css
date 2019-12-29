@@ -16,6 +16,14 @@ body {
     min-height: 100vh;
     background-size: cover;
     background: #d92337;
+    display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 .login-wrap .login-content {
     min-width: 80%;
